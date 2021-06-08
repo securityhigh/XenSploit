@@ -82,7 +82,7 @@ def main():
 	print("   ░    ░     ░      ░   ░ ░ ░  ░  ░  ░░         ░ ░   ░ ░ ░ ▒   ▒ ░  ░      ")
 	print("   ░    ░     ░  ░         ░       ░               ░  ░    ░ ░   ░           ")
 	print("                                                                             ")
-	print("                                           Exploit by OVNL.IN [v0.0.1b]      \n")
+	print("                                           NeExploit by BIN [v0.0.1b]      \n")
 
 	print("   1. Plugin information\n")
 

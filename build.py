@@ -82,7 +82,7 @@ def main():
 	print("   ░    ░     ░      ░   ░ ░ ░  ░  ░  ░░         ░ ░   ░ ░ ░ ▒   ▒ ░  ░      ")
 	print("   ░    ░     ░  ░         ░       ░               ░  ░    ░ ░   ░           ")
 	print("                                                                             ")
-	print("                                           NeExploit by BIN [v0.0.1b]      \n")
+	print("                                                            [v0.0.1b]      \n")
 
 	print("   1. Plugin information\n")
 
